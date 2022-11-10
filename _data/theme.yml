@@ -8,7 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
-featured-image: ware_001.jpg 
+featured-image: ware001
 
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 10em # Default is 8em
@@ -23,7 +23,7 @@ featured-locations: 5
 # ABOUT PAGE
 #
 #
-about-featured-image: ware_003.jpg
+about-featured-image: ware003
 
 ##########
 # ITEM PAGE
