@@ -14,8 +14,9 @@ credits: true
 [The Warehouse](https://btwownwarehouse.com/art/) in Bloomington, Indiana is located adjacent to [Switchyard Park](https://bloomington.in.gov/parks/parks/switchyard-park) and has been a site for Bloomington graffiti writers and muralists to legally display their craft for the community to admire.  
 
 Graffiti is an especially ephemeral artform, you never know when a piece might be painted over, tagged or defaced, or destroyed by the elements. Documenting the way the Warehoues changes over time allows us all to see the layers of history that envelope this space in our community. Though beginning in the Fall of 2022, this library is meant to serve as a space for continued documentation so that viewers can make comparisons and understand the way cycles of graffiti art change a space over time.  
-Check out these photos from the collection below to see how one part of the Warehouse completely changed overnight!
+Check out these photos from the collection below to see how one part of the Warehouse completely changed overnight! The first photo was taken in late September and the second photo was taken in late October in the exact same location! 
 
-{% include feature/card.html header="Before" text="This image was taken in late September" objectid="ware002" width="25" centered=true %}
+{% include feature/image.html objectid="ware002" width="75" %}
+{% include feature/image.html objectid="ware000" width="75" %}
 
-{% include feature/card.html header="After text="This image was taken in late October in the exact same locaton!" objectid="ware000" width="25" centered=true %}
+
