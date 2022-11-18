@@ -1,6 +1,6 @@
 ---
 title: Why Document Graffiti? 
-layout: page 
+layout: about 
 permalink: /why.html
 # include CollectionBuilder info at bottom
 credits: true
