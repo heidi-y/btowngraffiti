@@ -1,5 +1,5 @@
 ---
-title: Related Projects
+title: Related Content
 layout: about
 permalink: /about-related.html
 # include CollectionBuilder info at bottom
