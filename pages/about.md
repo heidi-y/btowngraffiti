@@ -13,7 +13,7 @@ credits: true
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## About the Collection
-[The Warehouse](https://btwownwarehouse.com/art/)in Bloomington, Indiana is located adjacent to [Switchyard Park](https://bloomington.in.gov/parks/parks/switchyard-park)and has been a site for Bloomington graffiti writers and muralists to legally display their craft for the community to admire. 
+[The Warehouse](https://btwownwarehouse.com/art/) in Bloomington, Indiana is located adjacent to [Switchyard Park](https://bloomington.in.gov/parks/parks/switchyard-park) and has been a site for Bloomington graffiti writers and muralists to legally display their craft for the community to admire. 
 
 
 
