@@ -3,3 +3,7 @@ date,Date,,,Date
 creator,Creator,,,
 subject,,true
 location,,true
+description,Description,
+relation,Relation,
+
+
