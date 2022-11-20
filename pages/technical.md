@@ -23,7 +23,7 @@ It is also important to note that there is a certain curatorial aspect to  this 
 
 ## Metadata Scheme Information 
 
-| Element Name | DC Mapping | Obligation | Cardinality | Visible? | Description| 
+| Element Name | DC Mapping | Obligation | Cardinality | Visible?          | Description| 
 |--------------|------------|------------|-------------|-------------------|------------|
 | Objectid | Identifier | required | 1 | no | Required identifcation element for CollectionBuilder |
 | Filename | Description | required | 1| no | Required identfication element for CollectionBuilder | 
