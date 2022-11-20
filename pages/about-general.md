@@ -18,5 +18,9 @@ Check out these photos from the collection below to see how one part of the Ware
 
 {% include feature/image.html objectid="ware002;ware000" width="75" caption="before;after" %}
 
+## About the creator 
+
+This digital library was created by Heidi Yarger, a graduate student studying folklore and library science at Indiana University. Contact Heidi at hsyarger@iu.edu with any comments or suggestions about the collection! 
+
 
 
