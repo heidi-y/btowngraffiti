@@ -30,4 +30,4 @@ First, lets look at a few general graffiti terms. Descriptions for these terms c
 {% include feature/image.html objectid="ware022" width="75" caption="A mural portrait of Yaeji in the collection" %}
 
 **Toy**: A toy is a term used for graffiti that is not very skillful or complex. Characteristics of toys are that they are often prolific and not very well composed. Toys are looked down upon by graffiti writers. 
-{% include feature/image.html objectid="https://raw.githubusercontent.com/heidi-y/collectionbuilder-draft/main/assets/img/notoys.jpeg" width="75" alt="No Toys" caption="This piece is further down the B-Line trail. Notice how it says "No Toys!" in the bottom right side"%}
+{% include feature/image.html objectid="https://raw.githubusercontent.com/heidi-y/collectionbuilder-draft/main/assets/img/notoys.jpeg" width="75" alt="No Toys" caption="This piece is further down the B-line, notice how it says No Toys in the bottom right!"%}
