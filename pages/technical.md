@@ -17,4 +17,4 @@ The context of this metadata scheme is that is has been designed by Heidi Yarger
 
 Time of creation and graffiti writer's identity (legal name) is unknown in most cases. With that in mind, information regrading the date of each photograph is provided so that users can have a reference point to compare any changes that may occur to the art around the Warehouse. Additionally, someone that visits the Warehouse frequently may be able to estimate a window of time when a particular piece was created. Information about the pieces focuses primarily on observable aspects of the work including style and form. Creator information is provided when known is and given in the form of the writer's tag, the crew name the writer belongs to (if applicable), and/or the Instagram handle of the writer. 
 
-It is also important to note that there is a certain curatorial aspect tot his collection as nto all graffiti around the Warehouse has been chosen for inclusion in this library. See
+It is also important to note that there is a certain curatorial aspect to  this collection as nto all graffiti around the Warehouse has been chosen for inclusion in this library. See
