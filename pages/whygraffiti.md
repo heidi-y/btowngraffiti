@@ -24,7 +24,10 @@ If you're new to the world of graffiti art, you may be wondering what distinguis
 {% include feature/image.html objectid="ware038" width="75" %}
 
 It may even be surprising to know that certain graffiti artists have been involved in vanadlism clean-up projects. Check out the newpaper clipping below from a 2004 Issue of the Anderson Herald Bulletin. 
-![clipping from the Anderson Herald Bulletin](https://raw.githubusercontent.com/heidi-y/collectionbuilder-draft/main/assets/img/clipping3.jpg)
+
+{% include feature/image.html objectid="https://raw.githubusercontent.com/heidi-y/collectionbuilder-draft/main/assets/img/clipping3.jpg" width="75" alt="Anderson Herald Bulletin" caption="Anderson Herald Bulletin, Jenny Montgomery"%}
+
+
 
 
 
