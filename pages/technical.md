@@ -25,14 +25,15 @@ It is also important to note that there is a certain curatorial aspect to  this 
 
 | Element Name | DC Mapping | Obligation | Cardinality | Visible to Users? | Description| 
 |--------------|------------|------------|-------------|-------------------|------------|
-| Objectid | Identifier | required | 1 | no | Required identifcation element for CollectionBuilder|
-| Filename | Description | required | 1| no | Required identfication element for CollectionBuilder| 
-| Title | Title | required | 1 | yes | Title of the piece| 
-| Format | Format | required | 1| yes | Format of the image| 
-| Location | Location | required | 1| yes | Location on the building| 
-| Creator | Creator | required if available | 1 or more | yes | Graffiti writer/artist name and/or crew name| 
-| Subject | Subject | required when applicable | 1 or more | yes | Style of piece (see glossary)| 
+| Objectid | Identifier | required | 1 | no | Required identifcation element for CollectionBuilder |
+| Filename | Description | required | 1| no | Required identfication element for CollectionBuilder | 
+| Title | Title | required | 1 | yes | Title of the piece | 
+| Format | Format | required | 1| yes | Format of the image | 
+| Location | Location | required | 1| yes | Location on the building | 
+| Creator | Creator | required if available | 1 or more | yes | Graffiti writer/artist name and/or crew name | 
+| Subject | Subject | required when applicable | 1 or more | yes | Style of piece (see glossary) | 
 |Form | Description | Not required | 1 or more | yes | Descripition of style of piece | 
-|Relation | Relation | Required if available | 1 or more | yes | Relation to other pieces in the collection| 
+|Relation | Relation | Required if available | 1 or more | yes | Relation to other pieces in the collection | 
 |Date | Date| required | 2| yes | Date of photo and date of piece (when applicable) | 
 |Rights | Rights | required| 1 | yes | Rights statement indicating the rights of the artists and fair use | 
+||||||
