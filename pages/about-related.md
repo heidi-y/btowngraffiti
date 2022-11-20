@@ -9,4 +9,6 @@ credits: true
 ---
 
 
-This is where you'll see related projects 
+Interested in learning more about street art in Bloomington Indiana? Check out the sources below! 
+
+
