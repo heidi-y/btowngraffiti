@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/nav-menu.html sections="Context, Content, and Users";"Metadata Scheme Information"; "Content Guidelines"; "Important Reference Works" %}
+
 
 # Technical Documentation 
 Here you'll find information about the way this collection is organized. You can use this page to better understand how to navigate and interact with the collection. You can also use this page to add new pieces to the collection properly as you document your own changes to the Warehouse in Bloomington!
