@@ -1,16 +1,15 @@
 field,display_name,browse_link,external_link
-title,Title,
-creator,Creator,
-date,Date Created,
-description,Description,
-subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
+title,Title,,
+creator,Creator,,
+date,Date Created/Date Photo taken,,
+description,Description,,
+subject,Subjects,true,
+location,Location,,
+source,Source,
 identifier,Source Identifier,,
-type,Type,
-format,Format,
-rights,Rights,
-rightsstatement,Rights Statement,,true
-relation,Relation,
+type,Type,,
+format,Format,,
+rights,Rights,,
+relation,Relation,,
+genre,Genre,,
+
