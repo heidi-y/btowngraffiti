@@ -16,6 +16,8 @@ First, lets look at a few general graffiti terms. Descriptions for these terms c
 
 **Writer**: The terms for a person who practices graffiti art (e.g. graffiti writing)
 
+**Crew**: Also known as a Cru, a Squad, or a Krew, a Crew is a group of graffiti writers who work together to create pieces. Check out the exhibit page to see one of Bloomington's Crews in action! 
+
 **Tag**: A writer's tag name or signature. Many of the pieces in the collection are stylized representations of graffiti writer's tag names, however a piece and a tag are two different things. Tags are quickly created with few details added in. 
 {% include feature/image.html objectid="ware027" width="75" caption="a graffiti tag" %}
 
@@ -31,3 +33,47 @@ First, lets look at a few general graffiti terms. Descriptions for these terms c
 
 **Toy**: A toy is a term used for graffiti that is not very skillful or complex. Characteristics of toys are that they are often prolific and not very well composed. Toys are looked down upon by graffiti writers. 
 {% include feature/image.html objectid="https://raw.githubusercontent.com/heidi-y/collectionbuilder-draft/main/assets/img/notoys.jpeg" width="75" alt="No Toys" caption="This piece is further down the B-line, notice how it says No Toys in the bottom right!"%}
+
+# Glossary of Graffiti Styles 
+
+Style types are taken from Lisa Gottlieb's *Graffiti Art Syles*, see above for a link to the World Cat entry to the text! 
+
+**Abstract**: 
+
+**TFP**: 
+{% include feature/image.html objectid="https://raw.githubusercontent.com/heidi-y/collectionbuilder-draft/main/assets/img/TFP.jpeg" width="75" alt="TFP" caption="[@149st](https://www.at149st.com/index.html)"%}
+
+**Silvers**: 
+{% include feature/image.html objectid="https://raw.githubusercontent.com/heidi-y/collectionbuilder-draft/main/assets/img/silvers.jpeg" width="75" alt="Silvers" caption="[ekosystem.org](https://www.ekosystem.org/photo/940750)"%}
+
+**CTK**: 
+{% include feature/image.html objectid="https://raw.githubusercontent.com/heidi-y/collectionbuilder-draft/main/assets/img/CTK.jpeg" width="75" alt="CTK" caption="[graffiti-database.com](https://graffiti-database.com/image/43527/Bando/Expo%2520Crime%2520Time%2520Kings%25202014)"%}
+
+**Pichador**: 
+
+**Semi-wild**: 
+{% include feature/image.html objectid="https://raw.githubusercontent.com/heidi-y/collectionbuilder-draft/main/assets/img/semi-wild.jpeg" width="75" alt="semi-wild" caption="[Dyre](https://vagabundler.com/sprayer/dyre/)"%}
+
+**Los Angeles Cholo-Based**: 
+{% include feature/image.html objectid="https://raw.githubusercontent.com/heidi-y/collectionbuilder-draft/main/assets/img/losangeles.jpeg" width="75" alt="Los Angeles" caption="[Time Out Magazine](https://www.timeout.com/los-angeles/art/best-graffiti-and-street-art-weve-seen-in-la)"%}
+
+**Swedish Train**: 
+
+**Neo Classic American Freight**: 
+{% include feature/image.html objectid="https://raw.githubusercontent.com/heidi-y/collectionbuilder-draft/main/assets/img/neo-classic.jpeg" width="75" alt="Neo-classic" caption="[flickr.com](https://www.flickr.com/photos/44323995@N03/4162790032)"%}
+
+**East Coast Piecing Style**: 
+{% include feature/image.html objectid="https://raw.githubusercontent.com/heidi-y/collectionbuilder-draft/main/assets/img/east-coast.jpeg" width="75" alt="east-coast" caption="[Bombing Science](https://www.bombingscience.com/arbor/)"%}
+
+**No-neg**: 
+{% include feature/image.html objectid="https://raw.githubusercontent.com/heidi-y/collectionbuilder-draft/main/assets/img/No-neg.jpeg" width="75" alt="no-neg" caption="[Spray Daily](https://www.spraydaily.com/sueme-visited-boston-montreal/)"%}
+
+**Dimensional**: 
+{% include feature/image.html objectid="https://raw.githubusercontent.com/heidi-y/collectionbuilder-draft/main/assets/img/dimensional.jpeg" width="75" alt="Dimensional" caption="[SPOK by SOS CREW](https://www.pinterest.com/pin/472455817161534377/)"%}
+
+**Dortmund**: 
+{% include feature/image.html objectid="https://raw.githubusercontent.com/heidi-y/collectionbuilder-draft/main/assets/img/dortmund.jpeg" width="75" alt="Dortmund" caption="[Pilot One Pilot](https://graffiti-database.com/image/18513/Pilot%2520One/Pilot)"%}
+
+**Wild**: 
+{% include feature/image.html objectid="https://raw.githubusercontent.com/heidi-y/collectionbuilder-draft/main/assets/img/wild.jpeg" width="75" alt="Wild" caption="[Javier, 2020](https://cooltourspain.com/wildstyle-graffiti/)"%}
+
