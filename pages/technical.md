@@ -1,6 +1,6 @@
 ---
 title: Technical Documentation
-layout: about
+layout: page
 permalink: /technicaldoc.html
 # include CollectionBuilder info at bottom
 credits: true
