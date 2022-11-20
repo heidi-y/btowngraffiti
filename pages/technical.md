@@ -36,4 +36,20 @@ It is also important to note that there is a certain curatorial aspect to  this 
 |Relation | Relation | Required if available | 1 or more | yes | Relation to other pieces in the collection | 
 |Date | Date| required | 2| yes | Date of photo and date of piece (when applicable) | 
 |Rights | Rights | required| 1 | yes | Rights statement indicating the rights of the artists and fair use | 
+|Genre | Type| not required | 1 or more | yes | Type of visual work presented | 
 ||||||
+
+## Content Guidelines 
+
+**Objectid**  
+- Description: According to CollectionBuilder (CB) Guidelines, the Ojectid is the field used to identify each object within CB. 
+- Formatting: The Objectid must be a unique string, all lowercase, with no spaces or special characters. Underscores and dashes are okay, but slashes are not. For the purposes of this collection, each Objectid beging with "ware" and ends with a unique string of numbers, ascending from 000 onward. 
+- Examples: ware001, ware002, ware 003 
+
+**Filename** 
+- Description: According to CB guidelines, the filename should be an all lowercase unique string with no spaces or special characters. 
+- Formatting: For the purposes of this collection, filenames will directly correspond to Objectid numbers, so thtat the item with Objectid ware001 has the filename ware_001.jpg 
+- Examples: ware_001.jpg, ware_002.jpg, ware_003.jpg 
+
+**Title** 
+- Description: 
