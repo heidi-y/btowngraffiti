@@ -61,7 +61,7 @@ Style types are taken from Lisa Gottlieb's *Graffiti Art Syles*, see above for a
 
 **Semi-wild**: 
 "The name "Semi-wild" refers to the fact that this style is, in the words of one graffiti expert, "less severe" than the Wild style. Specifically, Semi-wild pieces tend to be legible, a result of the letters having a standard, rather than intertwined overlap. Semi-wild is not simply "Wild-lite," however; it is a distinct style with its own set of characteristics." 
-{% include feature/image.html objectid="https://raw.githubusercontent.com/heidi-y/collectionbuilder-draft/main/assets/img/semi-wild.jpeg" width="75" alt="semi-wild" caption="href="https://vagabundler.com/sprayer/dyre/"%}
+{% include feature/image.html objectid="https://raw.githubusercontent.com/heidi-y/collectionbuilder-draft/main/assets/img/semi-wild.jpeg" width="75" alt="semi-wild" caption="https://vagabundler.com/sprayer/dyre/"%}
 
 **Los Angeles Cholo-Based**: 
 "The phrase "Cholo-based" refers to the fact that the lettering in this style is based on graffiti created by Los Angeles Cholo gans in the 1930s." Pieces are colorful with more than 5 colors used, they are 2-dimensional with 3-d effects, have hard letter outlines, and varied letter strokes.
