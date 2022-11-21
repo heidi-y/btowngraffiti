@@ -37,7 +37,7 @@ First, lets look at a few general graffiti terms. Descriptions for these terms c
 
 # Glossary of Graffiti Styles 
 
-Style types are taken from Lisa Gottlieb's *Graffiti Art Syles*, see above for a link to the World Cat entry to the text! 
+**Note: All style type descriptions below are taken from Lisa Gottlieb's *Graffiti Art Syles*, see above for a link to the World Cat entry to the text!** 
 
 **Abstract**: "Abstract pieces are described by graffiti artists as very organic in shape...The Abstract style is known as "Transcend," the name of the crew chiefly associated with this style." 
 
