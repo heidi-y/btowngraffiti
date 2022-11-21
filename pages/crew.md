@@ -12,6 +12,8 @@ credits: true
 
 {% include feature/image.html objectid="https://raw.githubusercontent.com/heidi-y/collectionbuilder-draft/main/assets/img/tatscru.jpeg" width="75" alt="tats cru caption="This summer, I got to interview members from the legendary Tats Cru in the Bronx, NYC!"%}
 
+{% include feature/image.html objectid="https://raw.githubusercontent.com/heidi-y/collectionbuilder-draft/main/assets/img/tatscru.jpeg" width="75" alt="Tats Cru caption="Bio from the legendary Bronx based Tats Cru"%}
+
 As mentioned in the glossary section, a Crew is a group of graffiti writers who work on pieces together. Bloomington has its very own graffiti crew known as Act Crew or Act Squad. A significant number of the pieces in this collection were created by members of Act Crew. It's uncertain how many members of the crew there currently are, but I've counted at least nine different names associated with the Act Crew pieces. Check out the exhibit below to see the impressive work this crew pulls off. One of my favorite things about Act Crew is the variety in style and form of the pieces that they create! I hope you enjoy. 
 
 {% include feature/image.html objectid="ware008" width="75" caption="Cinema by Act Crew members Bravery and Reapa" %}
