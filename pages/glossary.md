@@ -69,12 +69,12 @@ Style types are taken from Lisa Gottlieb's *Graffiti Art Syles*, see above for a
 {% include feature/image.html objectid="https://raw.githubusercontent.com/heidi-y/collectionbuilder-draft/main/assets/img/losangeles.jpeg" width="75" alt="Los Angeles" caption="[Time Out Magazine](https://www.timeout.com/los-angeles/art/best-graffiti-and-street-art-weve-seen-in-la)"%}
 
 **Swedish Train**: 
-"As with Silvers, Swedish Train pieces are executed quickly. As one graffiti art expert notes, "There is very little time for anything extraneous." This person also points out that the style "is very bubbly and has exaggerated proportions." Pieces are asymmetrical, are 2-dimensional with 3-d effects, have limited negati e space, and mininal letter overlap. 
+"As with Silvers, Swedish Train pieces are executed quickly. As one graffiti art expert notes, "There is very little time for anything extraneous." This person also points out that the style "is very bubbly and has exaggerated proportions." Pieces are asymmetrical, are 2-dimensional with 3-d effects, have limited negative space, and minimal letter overlap. 
 
 **Neo Classic American Freight**: 
-"As one graffiti art expert explains, this "neo-classic" style emerged as "a reaction to very abstract and unreadable freight pieces that were popular in 1999-2000." The Neo Classic American Freight style "hearkens back to subway days of teh 80s and takes shapes and connections that were popular then." 
+"As one graffiti art expert explains, this "neo-classic" style emerged as "a reaction to very abstract and unreadable freight pieces that were popular in 1999-2000." The Neo Classic American Freight style "hearkens back to subway days of the 80s and takes shapes and connections that were popular then." 
 
-{% include feature/image.html objectid="https://raw.githubusercontent.com/heidi-y/collectionbuilder-draft/main/assets/img/neo-classic.jpeg" width="75" alt="Neo-classic" caption="[flickr.com](https://www.flickr.com/photos/44323995@N03/4162790032)"%}
+{% include feature/image.html objectid="https://raw.githubusercontent.com/heidi-y/collectionbuilder-draft/main/assets/img/neo-classic.jpeg" width="75" alt="Neo-classic" caption= "[flickr.com](https://www.flickr.com/photos/44323995@N03/4162790032)"%}
 
 **East Coast Piecing Style**: 
 "As indicated by its name, the East Coast Piecing style was developed in cities in the eastern United States, including Baltimore, Washington D.C., and Philadelphia. "This is a very complex, labor intensive style," one graffiti expert explains. "It was born in abandoned train tunnels and warehouse walls. Writers would spend all day trying to create the most complicated stylish piece." 
@@ -97,7 +97,7 @@ Introduced by writers in Germany, this style reached the height of its internati
 {% include feature/image.html objectid="https://raw.githubusercontent.com/heidi-y/collectionbuilder-draft/main/assets/img/dortmund.jpeg" width="75" alt="Dortmund" caption="[Pilot One Pilot](https://graffiti-database.com/image/18513/Pilot%2520One/Pilot)"%}
 
 **Wild**: 
-"Created in 1974 by teh writer Tracey 168 and named for his crew, this style has been synonymous with New York City subway writing." Wild style has hard outlines, intertwined letters, arrows, consistent fill, and partially legible words. 
+"Created in 1974 by the writer Tracey 168 and named for his crew, this style has been synonymous with New York City subway writing." Wild style has hard outlines, intertwined letters, arrows, consistent fill, and partially legible words. 
 
 {% include feature/image.html objectid="https://raw.githubusercontent.com/heidi-y/collectionbuilder-draft/main/assets/img/wild.jpeg" width="75" alt="Wild" caption="[Javier, 2020](https://cooltourspain.com/wildstyle-graffiti/)"%}
 
