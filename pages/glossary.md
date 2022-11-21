@@ -40,7 +40,7 @@ Style types are taken from Lisa Gottlieb's *Graffiti Art Syles*, see above for a
 
 **Abstract**: "Abstract pieces are described by graffiti artists as very organic in shape...The Abstract style is known as "Transcend," the name of the crew chiefly associated with this style." 
 
-{% include feature/image.html objectid="https://raw.githubusercontent.com/heidi-y/collectionbuilder-draft/main/assets/img/abstract.jpeg" width="75" alt="Abstract" caption="<a href="https://www.bombingscience.com/poesia-interview-2/">Bombing Science</a>"%}
+{% include feature/image.html objectid="https://raw.githubusercontent.com/heidi-y/collectionbuilder-draft/main/assets/img/abstract.jpeg" width="75" alt="Abstract" caption=<a href="https://www.bombingscience.com/poesia-interview-2/">Bombing Science</a>%}
 
 **TFP**: 
 "The name TFP refers to the Fantastic Partners crew, which was formed in New York City during the 1970s and still exists today. During the 1980s TFP was associated mainly with train pieces; the 1990s were marked by experimentation in wall pieces. One graffiti art expert notes that "this style is very colorful and eyecatching and many people feel this has historically been the high point of graffiti." 
