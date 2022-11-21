@@ -10,7 +10,7 @@ credits: true
 
 ## Act Crew Exhibit 
 
-{% include feature/image.html objectid="https://raw.githubusercontent.com/heidi-y/collectionbuilder-draft/main/assets/img/tatscru.jpeg" width="75" alt="tats cru caption="This summer, I got to interview members from the legendary Tats Cru in the Bronx, NYC!"%}
+
 
 {% include feature/image.html objectid="https://raw.githubusercontent.com/heidi-y/collectionbuilder-draft/main/assets/img/tatscru.jpeg" width="75" alt="Tats Cru caption="Bio from the legendary Bronx based Tats Cru"%}
 
