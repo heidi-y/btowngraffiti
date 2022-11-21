@@ -89,15 +89,15 @@ Style types are taken from Lisa Gottlieb's *Graffiti Art Syles*, see above for a
 **Dimensional**: 
 Introduced by writers in Germany, this style reached the height of its international popularity during the 1990s. As the name suggests, the entirety of the letters in Dimensional pieces appear inherently 3-dimensional--a feat achieved through a combination of directional highlights and fades." 
 
-{% include feature/image.html objectid="https://raw.githubusercontent.com/heidi-y/collectionbuilder-draft/main/assets/img/dimensional.jpeg" width="75" alt="Dimensional" caption="https://www.spraydaily.com/sueme-visited-boston-montreal/"%}
+{% include feature/image.html objectid="https://raw.githubusercontent.com/heidi-y/collectionbuilder-draft/main/assets/img/dimensional.jpeg" width="75" alt="Dimensional" caption="[SPOK by SOS CREW](https://www.pinterest.com/pin/472455817161534377/)"%}
 
 **Dortmund**: 
 "The succinct style notation for the Dortmund style echoes one graffiti art expert's assessment that "this is a stripped down style and there isn't much focus on parts of the letters that aren't utilitarian." Reflecting this spare aesthetic, Dortmund pieces consist of "bold shapes" that are "very graphic" in nature. Named for its provenance in Dortmund, Germany, this style is predominantly train-based." 
 
-{% include feature/image.html objectid="https://raw.githubusercontent.com/heidi-y/collectionbuilder-draft/main/assets/img/dortmund.jpeg" width="75" alt="Dortmund" caption="https://www.spraydaily.com/sueme-visited-boston-montreal/"%}
+{% include feature/image.html objectid="https://raw.githubusercontent.com/heidi-y/collectionbuilder-draft/main/assets/img/dortmund.jpeg" width="75" alt="Dortmund" caption="[Graffiti-database.com](https://graffiti-database.com/image/18513/Pilot%2520One/Pilot)"%}
 
 **Wild**: 
 "Created in 1974 by the writer Tracey 168 and named for his crew, this style has been synonymous with New York City subway writing." Wild style has hard outlines, intertwined letters, arrows, consistent fill, and partially legible words. 
 
-{% include feature/image.html objectid="https://raw.githubusercontent.com/heidi-y/collectionbuilder-draft/main/assets/img/wild.jpeg" width="75" alt="Wild" caption="https://www.spraydaily.com/sueme-visited-boston-montreal/"%}
+{% include feature/image.html objectid="https://raw.githubusercontent.com/heidi-y/collectionbuilder-draft/main/assets/img/wild.jpeg" width="75" alt="Wild" caption="[Spray Daily](https://cooltourspain.com/wildstyle-graffiti/)"%}
 
