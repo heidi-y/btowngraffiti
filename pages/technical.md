@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-
+{% include feature/nav-menu.html sections="Context, Content, and Users;Metadata Scheme Information;Content Guidelines;Important Reference Works" %}
 
 # Technical Documentation 
 Here you'll find information about the way this collection is organized. You can use this page to better understand how to navigate and interact with the collection. You can also use this page to add new pieces to the collection properly as you document your own changes to the Warehouse in Bloomington!
@@ -129,7 +129,7 @@ cilhaos; @cilhaos
 
 - Formatting: The items in this collection fall under a Creative Commons License. Educational use, including non-commercial use of the text and images for research and teaching purposes is permitted. All rights to the designs represented in this collection rest with the artists and any reuse or reproduction of their work is not permitted under any circumstances. 
 
-**Important Reference Works** 
+## Important Reference Works
 
 Gottlieb, Lisa. (2008) *Graffiti art style: a classification system and theoretical analysis.* Jefferson, N.C.; McFarland. 
  <a href="https://www.worldcat.org/title/228608106">World Cat entry </a>
